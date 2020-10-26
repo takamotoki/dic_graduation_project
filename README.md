@@ -5,7 +5,7 @@
 kaggleコンペ初の本格参戦で、メダル圏で競い合い、コミュニティーへの貢献が可能か。
 
 ## Notebook Medal 獲得
-ブロンズメダルを獲得した[LGBM III part2](https://www.kaggle.com/takamotoki/lgbm-iii-part2)
+ブロンズメダルを獲得したNotebook: [LGBM III part2](https://www.kaggle.com/takamotoki/lgbm-iii-part2)
 
 ## Requirements
 当該コンペは、カーネルベースのコンペティションである。\
