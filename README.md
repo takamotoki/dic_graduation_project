@@ -11,7 +11,7 @@ kaggleコンペ初の本格参戦で、メダル圏で競い合い、コミュ�
 ├── code
 │   ├── Riiid_Overview_and_Data.ipynb
 │   ├── Riiid_EDA.ipynb
-│   └── __________
+│   └── lgbm-iii-part2.ipynb
 ├── .gitignore
 ├── LICENSE
 ├── README.md
