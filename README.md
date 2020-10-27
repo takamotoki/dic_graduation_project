@@ -17,6 +17,10 @@ kaggleコンペ初の本格参戦で、メダル圏で競い合い、コミュ�
 ├── README.md
 ```
 
+## データセット
+データセットの容量は、5.45GBある。
+当リポジトリには、データセットの格納はしておらず、下記Kaggle APIによるダウンロード、
+データセットダウンロードページ：[こちら](https://www.kaggle.com/c/riiid-test-answer-prediction/data)
 
 ## Notebook Medal 獲得
 ブロンズメダルを獲得したNotebook: [LGBM III part2](https://www.kaggle.com/takamotoki/lgbm-iii-part2)
