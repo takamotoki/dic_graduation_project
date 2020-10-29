@@ -5,13 +5,14 @@
 ## 概要
 kaggleコンペ初の本格参戦で、メダル圏で競い合い、コミュニティーへの貢献が可能か。
 
-## リポジトリ
+## リポジトリ構造
 ```
 .
 ├── code
 │   ├── Riiid_Overview_and_Data.ipynb
 │   ├── Riiid_EDA.ipynb
-│   └── lgbm-iii-part2.ipynb
+│   ├── lgbm-iii-part2.ipynb
+│   └── lgbm-iii-part3-adding-lecture-features.ipynb
 ├── .gitignore
 ├── LICENSE
 ├── README.md
