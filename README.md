@@ -11,7 +11,7 @@ kaggleコンペ初の本格参戦で、メダル圏で競い合い、コミュ�
 
 ## 結論
 投稿したNotebookが2個のメダルを獲得し、そこから派生したNotebookが複数件([こちら](https://www.kaggle.com/johannesbruch/focus-on-important-features)と[こちら](https://www.kaggle.com/mamun18/riiid-lgbm-lii-hyperparameter-tuning-optuna))登場した事から、\
-一定の貢献をする事ができたものと考えられる。
+コミュニティーに対して一定の貢献をする事ができたものと考えられる。
 
 また、メダル圏で競い合うという目標もシルバーメダルからブロンズメダル圏の順位で推移している事から、\
 一定のレベルで競い合う事ができたものと考えられる。\
