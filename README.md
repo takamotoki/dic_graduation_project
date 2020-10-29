@@ -10,8 +10,13 @@ kaggleコンペ初の本格参戦で、メダル圏で競い合い、コミュ�
 - コンペ終了日：2021年01月08日
 
 ## 結論
-投稿したNotebookが2個のメダルを獲得し、そこから派生したNotebookが複数件([こちら](https://www.kaggle.com/johannesbruch/focus-on-important-features)、[こちら](https://www.kaggle.com/mamun18/riiid-lgbm-lii-hyperparameter-tuning-optuna))登場した事から、
+投稿したNotebookが2個のメダルを獲得し、そこから派生したNotebookが複数件([こちら](https://www.kaggle.com/johannesbruch/focus-on-important-features)と[こちら](https://www.kaggle.com/mamun18/riiid-lgbm-lii-hyperparameter-tuning-optuna))登場した事から、\
 一定の貢献をする事ができたものと考えられる。
+
+また、メダル圏で競い合うという目標もシルバーメダルからブロンズメダル圏の順位で推移した事から、\
+一定のレベルで競い合う事ができているものと考えられる。
+
+Notebooks内に存在2件目()のNotebookを投稿した事により、
 
 ## リポジトリ構造
 ```
