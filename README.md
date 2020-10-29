@@ -24,7 +24,7 @@ kaggleコンペ初の本格参戦で、メダル圏で競い合い、コミュ�
 データセットダウンロードページ：[こちら](https://www.kaggle.com/c/riiid-test-answer-prediction/data)
 
 ## Notebook Medal 2個獲得
-ブロンズメダルを獲得したNotebook: [LGBM III part2](https://www.kaggle.com/takamotoki/lgbm-iii-part2)
+1個目のブロンズメダルを獲得したNotebook: [LGBM III part2](https://www.kaggle.com/takamotoki/lgbm-iii-part2)
 
 2個目のブロンズメダルを獲得したNotebook: [LGBM III part3 adding lecture features](https://www.kaggle.com/takamotoki/lgbm-iii-part3-adding-lecture-features)
 
