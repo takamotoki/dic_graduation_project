@@ -40,7 +40,7 @@ Kaggleコンペ初の本格参戦で、メダル圏の順位で競い合い、�
 ## Notebook Medal 2個獲得
 1個目のブロンズメダルを獲得したNotebook: [LGBM III part2](https://www.kaggle.com/takamotoki/lgbm-iii-part2)
 
-2個目のブロンズメダルを獲得したNotebook: [LGBM III part3 adding lecture features](https://www.kaggle.com/takamotoki/lgbm-iii-part3-adding-lecture-features)
+2個目のシルバーメダルを獲得したNotebook: [LGBM III part3 adding lecture features](https://www.kaggle.com/takamotoki/lgbm-iii-part3-adding-lecture-features)
 
 ## Requirements
 当該コンペは、カーネルベースのコンペである。\
